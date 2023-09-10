@@ -9,7 +9,7 @@ La CheemsCar è un robot open source, modulare e facilmente costruibile. Utilizz
 - Bill of materials:
 - 3D printed parts:
 - Laser cut parts:
-- Arduino Shield:
+- [Arduino Shield](./PCB)
 
 ## Assembling:
 Segui la guida step-by-step:
